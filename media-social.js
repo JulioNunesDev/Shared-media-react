@@ -3,6 +3,8 @@ import Linkedin from './src/assets/linkedin.svg'
 import Youtube from './src/assets/youtube.svg'
 import Site from './src/assets/site.svg'
 import npm from './src/assets/npm.png'
+import git from './src/assets/git.png'
+import discord from './src/assets/dc.png'
 
 export const Social =
 [
@@ -35,5 +37,17 @@ export const Social =
         subTitle: 'npm/',
         title: 'julionunes',
         link: 'https://www.npmjs.com/~julionunes'
-    }
+    },
+    {
+        logo: `${git}`,
+        subTitle: 'GitHub/',
+        title: 'JulioNunesDev',
+        link: 'https://github.com/JulioNunesDev'
+    },
+    {
+        logo: `${discord}`,
+        subTitle: 'Discord/',
+        title: 'JulioCode',
+        link: 'https://discord.gg/4NzNYkpBAP'
+    },
 ]

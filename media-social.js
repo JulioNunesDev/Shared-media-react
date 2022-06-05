@@ -2,6 +2,7 @@ import Instagram from './src/assets/Instagram.svg'
 import Linkedin from './src/assets/linkedin.svg'
 import Youtube from './src/assets/youtube.svg'
 import Site from './src/assets/site.svg'
+import npm from './src/assets/npm.png'
 
 export const Social =
 [
@@ -29,4 +30,10 @@ export const Social =
         title: 'Julio Nunes',
         link: 'https://julionunes.tk/'
     },
+    {
+        logo: `${npm}`,
+        subTitle: 'npm/',
+        title: 'julionunes',
+        link: 'https://www.npmjs.com/~julionunes'
+    }
 ]

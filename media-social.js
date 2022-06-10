@@ -5,6 +5,8 @@ import Site from './src/assets/site.svg'
 import npm from './src/assets/npm.png'
 import git from './src/assets/git.png'
 import discord from './src/assets/dc.png'
+import pod from './src/assets/pod.jpg'
+
 
 export const Social =
 [
@@ -49,5 +51,11 @@ export const Social =
         subTitle: 'Discord/',
         title: 'JulioCode',
         link: 'https://discord.gg/4NzNYkpBAP'
+    },
+    {
+        logo: `${pod}`,
+        subTitle: 'PodCast/',
+        title: 'JulioCast',
+        link: 'https://anchor.fm/dashboard/episodes'
     },
 ]

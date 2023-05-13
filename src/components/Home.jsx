@@ -25,7 +25,7 @@ const Home = ()=>{
             <div className="infors-social">
                 {Social.map((social, index)=>(
                     <a href={social.link} target="_blank">
-
+ 
                     
                     <article key={index}>
                         <div className="sociais">

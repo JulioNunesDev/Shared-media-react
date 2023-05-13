@@ -25,8 +25,8 @@ export const Social =
     {
         logo: `${Youtube}`,
         subTitle: 'Youtube/',
-        title: 'JúlioCode',
-        link: 'https://www.youtube.com/channel/UCYg9lp2ah0_4x1G8Fitf6aw?view_as=subscriber'
+        title: 'Júlio Nunes',
+        link: 'https://www.youtube.com/channel/UCZJppsz5Anj6Ad0aqeDG9Bw'
     },
     {
         logo: `${Site}`,
@@ -51,6 +51,12 @@ export const Social =
         subTitle: 'Discord/',
         title: 'JulioCode',
         link: 'https://discord.gg/4NzNYkpBAP'
+    },
+    {
+        logo: `${discord}`,
+        subTitle: 'Discord/',
+        title: 'Aurion Computer',
+        link: 'https://discord.gg/dTDMjWwdYq'
     },
     {
         logo: `${pod}`,

@@ -32,7 +32,7 @@ export const Social =
         logo: `${Site}`,
         subTitle: 'Site/',
         title: 'Julio Nunes',
-        link: 'https://julionunes.tk/'
+        link: 'https://julionunes.netlify.app/'
     },
     {
         logo: `${npm}`,

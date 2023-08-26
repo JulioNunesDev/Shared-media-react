@@ -9,7 +9,12 @@ import pod from './src/assets/pod.jpg'
 
 
 export const Social =
-[
+[{
+        logo: `${Site}`,
+        subTitle: 'Habitos Milionario/',
+        title: 'habitos milionario',
+        link: 'https://habitosmilionario.com.br/'
+    },
     {
         logo: `${Instagram}`,
         subTitle: 'Instagram/',
